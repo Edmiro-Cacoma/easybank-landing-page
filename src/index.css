@@ -15,13 +15,23 @@
     font-family: "Public Sans", sans-serif;
   }
 
+  body {
+    background-color: hsl(0, 0%, 100%);
+  }
+
+}
+
+
+
+img {
+  max-width: 100%;
 }
 
 @layer components {
   .intro {
     background: url(./Assets/images/bg-intro-desktop.svg)no-repeat;
     background-size: cover;
-    background-position: 510px -290px;
+    background-position: 510px -200px;
   }
 
   .introMobile {
