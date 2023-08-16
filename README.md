@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://your-solution-url.com)
+- Solution URL: [Github repo](https://github.com/Edmiro-Cacoma/easybank-landing-page/tree/master)
 - Live Site URL: [Live Site](https://easybank-landing-page-three-ochre.vercel.app)
 
 ## My process
