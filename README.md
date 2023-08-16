@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://easybank-landing-page-three-ochre.vercel.app)
+- Solution URL: [Github repo](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://easybank-landing-page-three-ochre.vercel.app)
 
 ## My process
 
